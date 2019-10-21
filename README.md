@@ -1,5 +1,8 @@
 
-# Bayesian microsaccade detection
+# Bayesian microsaccade detection (archival copy)
+
+This is a Ma lab copy of the original GitHub repository and code base, kept here for archival purposes. Please go to https://github.com/basvanopheusden/BMD for possible updates.
+
 #### Implementation of the algorithm described in [Mihali, van Opheusden, and Ma, 2017, Journal of Vision](http://jov.arvojournals.org/article.aspx?articleid=2597868)
 
 ## Applicability
